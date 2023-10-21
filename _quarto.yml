@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "West Coast OBON"
+  favicon: eDNA.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - resources.qmd
+      - contact.qmd
+      
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+    
+
+
+

@@ -1,0 +1,15 @@
+---
+title: "FoolsFest 2024"
+image: FoolsFest logo
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 22em
+  links:
+    - text: Contact
+      href: mailto:nvpatin@ucsd.edu
+---
+
+# Join us!
+
+March 28 - 31, 2024

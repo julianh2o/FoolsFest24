@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Please join us!\nEmail us at nvpatin[at]ucsd.edu to learn more."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The West Coast Ocean Biomolecular Observing Network (WC-OBON)",
+    "section": "",
+    "text": "Background\nBiomolecular technologies offer significant potential to transform marine management, but the development and application of molecular tools in marine ecosystems has been siloed within agencies, making it difficult to integrate long term datasets.\nThe West Coast OBON is under consideration by the UN Decade of Ocean Science for Sustainable Development as a program within the existing OBON global framework. We will work toward method harmonization and data integration of ’Omics ocean observing platforms on the North American West Coast in support of sustainable marine management.\n\n\nGoal\nFacilitate the adoption and harmonization of molecular tools by biomonitoring programs to develop an unprecedented overview of marine ecosystem dynamics\n\n\nObjectives\n1) align eDNA methods to improve comperability of ocean observing platforms\n2) develop bioinformatic work flows and metadata standards to facilitate eDNA method adoption\n3) establish best practices for large scale biomolecular monitoring\n\n\nKey Priorities\nShort term\n\nComplete eDNA sampling methods comparison experiment to identify optimal approaches\nSequence mitogenomes of ecologically important taxa to improve DNA reference libraries\nDisseminate recommended protocols for eDNA work\n\nLonger term\n\nAssess water quality & ocean acidification/ hypoxia impacts\nIdentify and forecast HABs\nIdentify trophic drivers of fish assemblage dynamics\nMap spatio-temporal distributions of protected species\n\n\n\nPartners\nNastassia Patin, CalCOFI & SCCWRP\nErin Satterthwaite, CalCOFI & CA Sea Grant, SIO, UCSD\nZachary Gold, NOAA PMEL\nBrice Semmens, CalCOFI, SIO, UCSD\nNoelle Bowlin, CalCOFI, NOAA SWFSC\nAndrew Thompson, CalCOFI, NOAA SWFSC\nRasmus Swalethorp, CalCOFI, SIO, UCSD\nSusanna Theroux, SCCWRP\nStephen Weisberg, SCCWRP\nClarissa Anderson, SCCOOS, SIO, UCSD\nMark Ohman, CCE-LTER, SIO, UCSD\nFrancisco Chavez, MBARI\nKathleen Pitz, MBARI\nKatherine Barbeau, CCE-LTER, SIO, UCSD\nMoira Decima, CCE-LTER, SIO, UCSD\nJeff Bowman, SIO, UCSD\nBob Miller, SBC-MBON, UCSB\nAndrew Allen, CalCOFI, SIO, UCSD & JCVI\nKelly Goodwin, NOAA AOML\nGabrielle Canonico, NOAA IOOS"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "A WC-OBON endorsed molecular methods guide\nThis guide includes information to help decision making for marker gene amplification and sequencing. This includes all protocols from member institutions of WC-OBON.\n\n\nrCRUX: A rapid and versatile tool for generating reference libraries in R\nThis tool can generate comprehensive metabarcoding reference libraries for any bespoke locus.\n\n\nNOAA ’omics data management guide\nThis guide was created to help ’omics users decide which data goes to which repositories (NCEI, NCBI, etc.), and how to deposit their data so that it will be FAIR (findable, accessible, interoperable, and reusable), including following community standards for raw data, processed data, and contextual metadata and environmental data.\n\n\nBetter Biomolecular Ocean Practices (BeBOP-OBON)\nThis resource has repositories that include: Minimum Information about an Omics Protocol (MIOP) specifications, biomolecular protocol templates, protocol examples, and digital assets to connect BeBOP to ODIS & Ocean InfoHub."
+  },
+  {
+    "objectID": "contact.html#please-join-us",
+    "href": "contact.html#please-join-us",
+    "title": "Contact",
+    "section": "",
+    "text": "Email us at nvpatin[at]ucsd.edu to learn more."
+  }
+]
