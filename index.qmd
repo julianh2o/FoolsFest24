@@ -4,7 +4,7 @@ image: FoolsFest logo.png
 about: 
   template: trestles
   image-shape: round
-  image-width: 22em
+  image-width: 40em
   links:
     - text: Contact
       href: mailto:nvpatin@ucsd.edu
