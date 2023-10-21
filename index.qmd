@@ -1,6 +1,6 @@
 ---
 title: "FoolsFest 2024"
-image: FoolsFest logo
+image: FoolsFest logo.png
 about: 
   template: trestles
   image-shape: round
