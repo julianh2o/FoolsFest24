@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "West Coast OBON"
-  favicon: eDNA.png
+  title: "FoolsFest 2024"
+  favicon: jesters_cap_icon.png
   navbar:
     left:
       - href: index.qmd
