@@ -1,5 +1,5 @@
 ---
-title: "FoolsFest 2024"
+title: "FoolsFest 1999"
 image: FoolsFest logo.png
 about: 
   template: trestles
