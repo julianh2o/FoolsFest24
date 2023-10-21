@@ -1,2 +1,2 @@
-# WC-OBON_Website
-A repository for WC-OBON website
+# FoolsFest Website
+A repository for FoolsFest website

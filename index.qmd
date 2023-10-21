@@ -7,7 +7,7 @@ about:
   image-width: 30em
   links:
     - text: Contact
-      href: mailto:nvpatin@ucsd.edu
+      href: mailto:mateorobbins@gmail.com
 ---
 
 # Join us!
