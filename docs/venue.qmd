@@ -1,0 +1,10 @@
+---
+title: "Venue"
+filters:
+ - lightbox
+lightbox: auto
+---
+
+# Kitchen and Dining
+
+![Dining Area](docs/Dining.jpg) ![Kitchen Counters](docs/Kitchen_counters.jpg) ![Dining tables](docs/Dining_tables.jpg) ![Fridge+Trash Bins](docs/Fridge_bins.jpg) ![Kitchen sinks](docs/Kitchen_sinks.jpg)

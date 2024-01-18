@@ -2,7 +2,7 @@
 title: "Join us for FoolsFest! March 28 - 31, 2024"
 image: FoolsFest logo.png
 about: 
-  template: trestles
+  template: jolla
   image-shape: round
   image-width: 30em
   links:
@@ -10,6 +10,3 @@ about:
       href: mailto:mateorobbins@gmail.com
 ---
 
-# Join us for a co-created campout!
-
-March 28 - 31, 2024
