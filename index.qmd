@@ -1,6 +1,6 @@
 ---
-title: "Join us for FoolsFest! March 28 - 31, 2024"
-image: FoolsFest logo.png
+title: ""
+image: FoolsFest logo_big.png
 about: 
   template: jolla
   image-shape: round

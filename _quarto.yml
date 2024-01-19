@@ -11,6 +11,7 @@ website:
         text: Home
       - FAQ.qmd
       - Venue.qmd
+      - Map.qmd
        
       
 
