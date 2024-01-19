@@ -9,8 +9,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - resources.qmd
-      - contact.qmd
+      - FAQ.qmd
+      - Venue.qmd
+      - Map.qmd
+       
       
 
 format:
