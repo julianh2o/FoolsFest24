@@ -5,3 +5,47 @@ h4 {
 h1 {
   color: thistle;
 }
+
+h5 {
+  text-align: center;
+}
+
+h6 {
+  text-align: center;
+  font-family: 'Arial Black', sans-serif;
+}
+
+.button {
+  border: none;
+  color: pink;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+  .rsvp-button {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: #DD9700; /* Eye-popping background color */
+    color: #fff; /* Text color */
+    border: 2px solid #fff; /* Border color same as background for a seamless look */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .festival-introduction {
+    font-family: 'Arial Black', sans-serif; /* Choose your preferred font family */
+    font-size: 24px;
+    line-height: 1.5;
+    color: #333; /* Text color */
+    margin-bottom: 20px;
+  }

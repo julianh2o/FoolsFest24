@@ -10,8 +10,9 @@ website:
       - href: index.qmd
         text: Home
       - FAQ.qmd
-      - Venue.qmd
+      - Venue_Photos.qmd
       - Map.qmd
+      - RSVP.qmd
        
       
 

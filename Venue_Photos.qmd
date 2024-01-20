@@ -1,0 +1,58 @@
+---
+title: "Venue Photos"
+filters:
+ - lightbox
+lightbox: auto
+---
+
+## Kitchen and Dining
+
+![Dining Area](photos/Dining.jpg){group="kitchen"}
+
+![Kitchen Counters](photos/Kitchen_counters.jpg){group="kitchen"}
+
+![Dining tables](photos/Dining_tables.jpg){group="kitchen"}
+
+![Fridge+Trash Bins](photos/Fridge_bins.jpg){group="kitchen"}
+
+![Kitchen sinks](photos/Kitchen_sinks.jpg){group="kitchen"}
+
+![Oven](photos/Oven.jpg){group="kitchen"}
+
+## Bathrooms
+
+![Bathroom stalls](photos/Bathroom_stalls.jpg){group="bathroom"}
+
+![Showers](photos/Bathroom_showers.jpg){group="bathroom"}
+
+![Bathroom sinks](photos/Bathroom_sinks.jpg){group="bathroom"}
+
+![Oorinals](photos/Bathroom_oorinals.jpg){group="bathroom"}
+
+## Forest Stage
+
+![Stage front](photos/Stage_front.jpg){group="forest stage"}
+
+![Stage inside](photos/Stage_inside.jpg){group="forest stage"}
+
+![Stage across](photos/Stage_across.jpg){group="forest stage"}
+
+![Stage outside](photos/Stage_outside.jpg){group="forest stage"}
+
+## Jesters Public House
+
+![Public house door](photos/Public_house_door.jpg){group="jesters pub"}
+
+![Public house long](/photos/Public_house_long.jpg){group="jesters pub"}
+
+![Public house more](/photos/Public_house_more.jpg){group="jesters pub"}
+
+## Miscellaneous
+
+![Firepit](photos/Fire_pit.jpg){group="misc"}
+
+![Firepit2](photos/Fire_pit2.jpg){group="misc"}
+
+![Chalkpad](photos/Chalk_pad.jpg){group="misc"}
+
+![Notice board](photos/Notice_board.jpg){group="misc"}
