@@ -5,8 +5,10 @@ about:
   template: jolla
   image-shape: round
   image-width: 30em
-  links:
-    - text: Contact
-      href: mailto:mateorobbins@gmail.com
 ---
 
+<!-- **Art, music, libations, adventures, community!**  -->
+
+```{=html}
+    <a href="your_rsvp_link_here" class="rsvp-button">RSVP NOW</a>
+```

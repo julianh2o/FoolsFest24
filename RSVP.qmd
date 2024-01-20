@@ -2,3 +2,5 @@
 title: "RSVP"
 editor: visual
 ---
+
+[Click here to RSVP for FoolsFest](https://forms.gle/rr3e9769FyJviYE78) to give us a yes/no/maybe on your plans to join us :)
