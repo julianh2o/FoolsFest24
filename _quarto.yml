@@ -9,11 +9,11 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - Event_Info.qmd
       - RSVP.qmd
-      - FAQ.qmd
       - Venue_Photos.qmd
       - Map.qmd
-      - Get_Involved.qmd
+      - FAQ.qmd
        
       
 
