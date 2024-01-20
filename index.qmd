@@ -10,5 +10,5 @@ about:
 <!-- **Art, music, libations, adventures, community!**  -->
 
 ```{=html}
-    <a href="your_rsvp_link_here" class="rsvp-button">RSVP NOW</a>
+    <a href="https://forms.gle/rr3e9769FyJviYE78" class="rsvp-button">RSVP NOW</a>
 ```
