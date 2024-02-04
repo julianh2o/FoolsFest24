@@ -14,9 +14,9 @@ website:
       - Venue_Photos.qmd
       - Map.qmd
       - FAQ.qmd
+      - Posts.qmd
        
       
-
 format:
   html:
     theme: solar

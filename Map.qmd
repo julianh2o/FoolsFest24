@@ -3,7 +3,7 @@ title: "Map"
 editor: visual
 ---
 
-##### Live Oak Camp 
+##### Live Oak Camp
 
 ##### 4600 CA-154, Santa Barbara, CA 93105
 
