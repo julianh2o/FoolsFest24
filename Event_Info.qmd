@@ -2,6 +2,7 @@
 title: "Event Info"
 editor: visual
 ---
+
 #### **FoolsFest is a co-created campout filled with celebration, fun, music, and art in the great outdoors.** FoolsFest is in the early stages of development, but we envision a gathering of creative minds who come together in the spirit of whimsy and playfulness to celebrate life and forge new connections. The magic of Foolsfest lies in the sharing, openness, and collective creativity and enthusiasm of its participants. We hope to see you there!
 
 #### **What: FoolsFest, a co-created campout**
@@ -10,7 +11,8 @@ editor: visual
 
 #### **Where: [Live Oak Campground, Santa Barbara County, CA](https://www.google.com/maps/place/Live+Oak+Camp/@34.5543562,-119.8818684,15z/data=!4m6!3m5!1s0x80e9437d99e398fd:0x811c9e578a278160!8m2!3d34.5543562!4d-119.8818684!16s%2Fg%2F1tdftg1k?entry=ttu)**
 
-####
-####
+#### 
+
+#### 
 
 ![](docs/docs/photos/pecker_oak.png)
