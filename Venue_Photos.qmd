@@ -9,6 +9,10 @@ lightbox: auto
 
 ##### 4600 CA-154, Santa Barbara, CA 93105
 
+##### 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SXP7fDgQWVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Kitchen and Dining
 
 ![Dining Area](photos/Dining.jpg){group="kitchen"}
