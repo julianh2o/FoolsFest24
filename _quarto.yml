@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - Schedule/*
 
 website:
   title: "FoolsFest 2024"
@@ -15,14 +17,11 @@ website:
       - Map.qmd
       - FAQ.qmd
       - Posts.qmd
-       
-      
+      - href: /Schedule
+        text: Schedule
+
 format:
   html:
     theme: solar
     css: styles.css
     toc: true
-    
-
-
-
